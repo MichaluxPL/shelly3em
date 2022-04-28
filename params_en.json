@@ -1,0 +1,10 @@
+{
+ "power": "Power [W]",
+ "current": "Current [A]",
+ "voltage": "Voltage [V]",
+ "total":"Power from grid [Wh]",
+ "total_returned": "Power returned [Wh]",
+ "total_power": "Power usage (all phases) [W]",
+ "total_sum": "Total power from grid [Wh]",
+ "total_returned_sum": "Total power returned [Wh]"
+}

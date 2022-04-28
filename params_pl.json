@@ -1,0 +1,10 @@
+{
+ "power": "Moc [W]",
+ "current": "Prąd [A]",
+ "voltage": "Napięcie [V]",
+ "total":"Pobrane z sieci [Wh]",
+ "total_returned": "Oddane do sieci [Wh]",
+ "total_power": "Suma mocy 3ech faz [W]",
+ "total_sum": "Pobrane z sieci w sumie [Wh]",
+ "total_returned_sum": "Oddane do sieci w sumie [Wh]"
+}
